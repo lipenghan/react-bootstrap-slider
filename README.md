@@ -12,13 +12,11 @@ https://codesandbox.io/s/qv61qp18kj
 - [react-bootstrap-slider-v1](https://github.com/brownieboy/react-bootstrap-slider/tree/v1.0.6)
 
 
-### How to use
+### how to use
 
 `react-bootstrap-slider` is open-source and the license is MIT. 
 Our SFDC project use `react-15.6.2` wihout __JSX__. So just wrapper `react-bootstrap-slider` that can run in this case.
 
-### how to use
-`npm start`
 ~~~ javascript 
 // https://github.com/seiyria/bootstrap-slider#options
 React.createElement(ReactBootstrapSlider, {
@@ -44,3 +42,6 @@ React.createElement(ReactBootstrapSlider, {
 });
 
 ~~~
+
+### how to run 
+`npm start`
