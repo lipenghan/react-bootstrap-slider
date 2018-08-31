@@ -1,0 +1,14 @@
+{
+  "name": "react-bootsrap-slider",
+  "version": "1.0.0",
+  "description": "Ract Slider without JSX",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -o -p 8081"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "parcel-bundler": "^1.6.1"
+  }
+}
