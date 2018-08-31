@@ -18,7 +18,7 @@ https://codesandbox.io/s/qv61qp18kj
 Our SFDC project use `react-15.6.2` wihout __JSX__. So just wrapper `react-bootstrap-slider` that can run in this case.
 
 ### how to use
-
+`npm start`
 ~~~ javascript 
 // https://github.com/seiyria/bootstrap-slider#options
 React.createElement(ReactBootstrapSlider, {
